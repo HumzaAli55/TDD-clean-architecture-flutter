@@ -1,0 +1,55 @@
+# Flutter/Dart related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.idea/
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/*.xcodeproj/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/App.framework
+ios/Flutter/engine/
+ios/.dart_tool/
+
+# Android
+android/.gradle/
+android/.idea/
+android/app/debug.keystore
+
+# macOS
+macos/Flutter/ephemeral/
+
+# Web
+web/.dart_tool/
+web/.flutter-plugins/
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Coverage
+coverage/
+
+# Other
+*.iml
+*.log
+*.lock
+*.pyc
+*.class
+*.swp
+*.swo
+*.DS_Store
+*.apk
+*.aab
+*.keystore
+*.hprof
